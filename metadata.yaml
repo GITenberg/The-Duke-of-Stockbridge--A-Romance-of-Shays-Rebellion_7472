@@ -1,5 +1,8 @@
 _repo: The-Duke-of-Stockbridge--A-Romance-of-Shays-Rebellion_7472
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bellamy, Edward
@@ -13,6 +16,8 @@ description: 'Although written in 1879 and serialized in a local paper, The Duke
   Bellamy''s death. The Duke of Stockbridge is set in the past: during Shay''s Rebellion
   of 1786. It''s soft and romantic, but hidden inside the sentimentality are hints
   of Bellamy''s political ideas.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7472#The-Duke-of-Stockbridge--A-Romance-of-Shays-Rebellion
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
